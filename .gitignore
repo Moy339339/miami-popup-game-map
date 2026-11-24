@@ -1,0 +1,7 @@
+.venv/
+out/
+__pycache__/
+.pytest_cache/
+node_modules/
+**/web/tex/gen/
+*.mp4

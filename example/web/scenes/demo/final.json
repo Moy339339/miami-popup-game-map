@@ -1,0 +1,6 @@
+{
+  "segments": [
+    {"out_start": 0, "out_end": 7.4, "source_start": 0, "style": "styles/debug.js:Day"},
+    {"out_start": 7.4, "out_end": 10, "source_start": 7.4, "style": "styles/debug.js:Night"}
+  ]
+}

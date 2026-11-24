@@ -1,0 +1,56 @@
+Generate a single 1536 × 1024 landscape production illustration sheet, 3:2 aspect ratio. It contains exactly 21 original fictional adults for cardstock standees to be used in a paper miniature of the contemporary Florida Keys. The attached crop is Reference 5. Generate a completely new cast and composition guided by the supplied crop's lighting treatment only.
+
+LIGHTING REFERENCE 5
+Use reference 5 ONLY for how light and shadow are rendered on skin and clothes: a warm peach rim light on the lit edge and large lavender-indigo shadow shapes, with forms separated by color temperature instead of ink lines.
+Do not copy any person, face, pose, outfit, jewelry or text from it.
+Transfer the clear division between the warm left lit edge and the cool shaded color planes to every new person. Disregard the crop's layout, textured garments, setting and signs.
+
+OTHER REFERENCE OBSERVATIONS
+Reference 1: existing standees establish one complete upright person per card, eye-level front view by default, roughly seven heads tall, with a fine dark contour. Replace their simple vector treatment with more refined adult anatomy and poster rendering.
+Reference 2: the downstream paper miniature is filmed from a raised, distant camera. Make poses, silhouettes and garment colors legible at roughly 110 pixels and 45 pixels of rendered person height. The illustration sheet itself is drawn straight-on at eye level.
+References 3 and 4: Florida Keys boat gatherings and guests and locals outside a coastal bar. Use their mix of fishing sun shirts, caps, denim, swimsuits, floral shirts, swim trunks, body types and skin tones, as specified by slot. Colors include faded teal, sand khaki, warm accents and cool shade. Invent each person independently. Exclude the references' people, 3D look and scenery.
+
+ART DIRECTION — apply identically to all 21 people
+Semi-realistic contemporary Miami crime-drama poster figures printed on cardstock. Mature observational illustration, natural human proportions and expressions, softly modeled areas bounded by crisp color-temperature changes. Use a restrained palette with the saturated swimsuit colors only where specified. Seven heads tall with believable adult anatomy and modest real-world variations in height and build. People wear everyday Miami and Florida Keys street/beach clothing in 2026.
+Not a sticker pack, not clip art, not a cartoon mascot, not a mobile-game character sheet, not a children's book, not comic-book inking.
+Low warm sun from the upper LEFT (10 o'clock) on every figure. Lit side: a clean 2–3 px peach rim (#f9bfa4 to #fcac8a) along the left and top edges of head, shoulders, arms and legs. Shadow side: the right third of the torso and the right side of every limb, under the chin, under the shorts hem — ONE hard-edged lavender-indigo shadow shape (#6065a1 / #5e5a92, multiply look), so skin in shadow turns mauve-rose, never brown. The left edges carry no shadow. Within each shape a subtle soft gradient is allowed.
+Use an unmistakable blue-violet color in the larger right-side shade areas. Keep the lit-edge peach highlight visibly separate from the shade even on the darkest skin. Shape clothing, faces and bodies with contiguous warm and cool pigment areas. Render expressions via color changes and anatomy. Keep visible teeth out of every face.
+Only the outer silhouette gets a thin deep-plum line (#3a2340; nothing darker than #2a1b2c anywhere). Draw NO interior ink lines: muscles, abs, knees, navel, fingers, pockets, seams and hair strands are shown only by the edges of color and shadow shapes or in the shadow color.
+Relaxed, neutral or cool expressions, mouths closed or a slight smirk; no toothy grins. Ordinary bodies — soft bellies, average builds, sunburn — not gym physiques; at most 3 of the men are visibly muscular (cells 7, 9, 15).
+The only muscular men are in cells 7, 9, 15. Keep each skin tone distinct as prescribed below: very fair pink/sunburned skin, light olive, tawny and medium brown, and distinctly deep brown are all present. A representative mid-range skin midtone is #af635a. Preserve pale and deep skin where specified. Avoid uniform bright-orange skin.
+Caps, shorts and shirts are plain: no patches, emblems, badges or small marks, except the small wave motif on cell 9.
+Keep the floral, camouflage, surf and other nonletter garment fabrics specified below.
+
+EXACT CUTTING LAYOUT
+Use a uniform, opaque, perfectly flat pure-white canvas, exact #FFFFFF with no noise or texture. Plan an INVISIBLE seven-column by three-row grid of equal cells, about 219 × 341 px per cell. Place exactly one complete person in each cell and show all hat/hair, hands and feet. Keep all body parts, clothing and held objects away from all seams and canvas edges. Each figure horizontally centered on its column center (±5 px). Align the full silhouette including its accessories by centering the width of the complete figure in the cell.
+Column centers in full-canvas pixels from left to right: x = 110, 329, 549, 768, 987, 1207, 1426. Row starts: y = 0, 341, 683. In each row, top of head/hat about 27 px below row top; soles on the same baseline about 14 px above row bottom, at full-canvas y ≈ 327, 669, 1010. Raised hands and fingers may extend above the head while leaving AT LEAST 12 px of uninterrupted white from the row top. For the three rows, that puts raised fingertips at y ≥ 12, ≥ 353, or ≥ 695 respectively. Leave a clear horizontal white gutter from each figure row to the next. Eye-level orthographic full-body standing view, straight-on from the front in all slots other than the first four of row 3, which are exactly from the back with no visible face. No visible grid or slot labels.
+
+ROW 1 — seven front views, left to right
+1. Pale sunburnt white man, light-blue long-sleeve fishing sun-protection shirt, khaki cargo shorts, unmarked baseball cap. Both arms hang naturally.
+2. Light olive Latina woman, neon lime-green bikini, one hand on hip.
+3. Heavyset, sunburnt, middle-aged white man, open teal floral shirt, khaki shorts, holding a plain red party cup in one hand.
+4. Full-figured medium-brown Latina woman, burgundy bikini, broad-brim straw hat, sunglasses.
+5. Deep-brown Black man of ordinary build, shirtless, green camouflage swim trunks. Both arms hang naturally.
+6. Fair, lightly tanned blonde woman, bright pink bikini, one hand up high waving.
+7. Wheat-toned Latino man, muscular, shirtless with abstract tattoos on chest and arms, red swim trunks, one hand up high waving.
+
+ROW 2 — seven front views, left to right
+8. Medium-brown Latina woman, dark plum-black mesh top over a pink bikini top, denim shorts, one hand on hip.
+9. Deep-brown Black man, muscular, white tank top with one small non-letter wave motif on the chest, olive cargo shorts, holding a plain red party cup in one hand.
+10. Light-brown mixed-race woman, red crop top, light cargo trousers, sneakers.
+11. Sunburnt young white man of ordinary build, shirtless, patterned blue-green swim trunks, diving mask pushed up to his forehead, one hand up high waving.
+12. Deep-brown Black woman, yellow-lime bikini, holding a plain red party cup in one hand.
+13. Olive-skinned man of ordinary build, shirtless, orange-red surf shorts, one hand up high waving.
+14. Older, tanned white woman, one-piece swimsuit, straw hat and sarong tied at waist.
+
+ROW 3 — first four strictly back views, last three front views
+15. Back view: wheat-toned muscular man, light tank top, khaki cargo shorts, short hair, nape visible and face fully hidden.
+16. Back view: medium-brown woman, dark tank top, denim shorts and dark ponytail down her back, face fully hidden.
+17. Back view: deep-brown man of ordinary build, shirtless, unmarked dark baseball cap worn backwards with the bill directed toward the viewer, one hand up high waving, face fully hidden.
+18. Back view: pale elderly white man, floral shirt, shorts and bucket hat, face fully hidden.
+19. Front view: deep-brown man with a small soft belly, shirtless, patterned blue-green surf shorts, holding a plain red party cup in one hand.
+20. Front view: light olive woman, pink bikini top, denim shorts and sunglasses, one hand on hip.
+21. Front view: medium-brown man, sun-protection shirt, unmarked backward baseball cap, both arms hanging naturally.
+
+OUTPUT CHECK
+Seven complete figures in each of three rows. Exact white surrounds every cutout. No environment, ground or cast shadows, ground plane, bases, frames, dividers, text, numbers, brand marks, signatures, watermarks, weapons, official game characters or recognizable real people. No cropped heads, hands or feet. Keep the semirealistic poster rendering and the visible peach and lavender-indigo lighting on every figure. Return only the image.

@@ -1,0 +1,13 @@
+{
+  "segments": [
+    {
+      "out_start": 0,
+      "out_end": 3,
+      "source_start": 7,
+      "relay": {
+        "every": 0.4,
+        "styles": ["styles/debug.js:Day", "styles/debug.js:Night"]
+      }
+    }
+  ]
+}

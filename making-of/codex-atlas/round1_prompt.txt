@@ -1,0 +1,42 @@
+Create ONE production-ready landscape PNG illustration sheet, exactly 1536 × 1024 pixels, containing EXACTLY TWENTY-ONE original fictional adult people for full-body printed cardstock standees in a Florida Keys paper miniature. These are neutral everyday beach and street outfits. Return only the image.
+
+REFERENCE OBSERVATIONS TO USE FOR THEIR STATED PURPOSE ONLY
+1. Existing standees: one complete standing person per card, eye-level front view by default, roughly seven heads tall, with a thin dark contour. Use these structural traits only. Give the new figures more refined human silhouettes, clothing and anatomy than the simple existing drawings.
+2. Miniature video frame: these figures will be printed very small and viewed from a raised, distant camera. Make the silhouette, pose and large garment color areas easy to read at that scale. This describes downstream use only. Draw the figures themselves eye-level, with no miniature scene, perspective or style copied onto the image.
+3. Boat gathering: use the mix of warm peach sunlight and cool blue/indigo shade, varied skin tones and builds, and the coastal mix of swimwear, patterned board shorts and caps.
+4. Guests and locals at the coastal bar: use the mix of sun-faded teal, sand khaki, vivid warm accents, fishing sun shirts, denim, tanks and floral shirts, plus age and build diversity. All 21 people are original. Do not copy specific people, lettering, scenery or 3D rendering from the reference observations.
+
+PRINT ILLUSTRATION STYLE FOR EVERY PERSON
+Refined 2D cardstock print illustration. Flat, solid color shapes. For each form use a single hard-edged, cool indigo-violet shade plane on its lower-right side, with the look of multiply color, and a fine warm peach highlight along its upper-left lit edge. Consistent upper-left light on every person. Outline the entire silhouette with a uniformly thin, deep plum ink line. Darks are plum/indigo, never pure black. No gradients, no painted blending, no 3D or photographic texture. Believable adult anatomy, approximately seven heads tall, simple facial features readable at miniature scale, no portrait detail. Contemporary 2026 Miami and Florida Keys beach/street wear, diverse skin tones and bodies. Vibrant but controlled large color areas. Render the designated lime swimwear clearly while controlling saturation elsewhere.
+
+STRICT CUTTING GRID
+The entire canvas is one perfectly flat opaque pure RGB white (#FFFFFF) field. Arrange the figures on an INVISIBLE full-canvas grid of SEVEN EQUAL COLUMNS by THREE EQUAL ROWS, exactly 7 people per row, no additional figures. Each cell is about 219 × 341 pixels. For guidance, column centers are x = 110, 329, 549, 768, 987, 1207, 1426, row starts are y = 0, 341, 683. Align all soles per row along y ≈ 327, 669, 1010, about 4% of cell height above the cell bottom. Heads start near y ≈ 27, 368, 710, about 8% below the start of each row. Keep similar human height with subtle natural variation. Raised hands may extend a little above the head but stay entirely in their own cell with safe white clearance. All figures and handheld items are fully contained in their own cells with visible white margins. Show the complete head or hat, hands, legs and both feet. One centered standing adult per cell, no crops, no overlaps, no leaning. Front-facing straight-on for every slot except row 3 columns 1–4, which are strictly straight-on back views with no face visible. The slot identifiers below are instructions only and must never be printed.
+
+ROW 1 FROM LEFT TO RIGHT — all front views
+R1C1. Man in light-blue long-sleeve fishing sun shirt, khaki cargo shorts, and a baseball cap. Both arms hanging naturally.
+R1C2. Woman in bright neon lime-green bikini. Standing, one hand on hip.
+R1C3. Heavyset man in open teal floral shirt and khaki shorts, holding a red party cup in one hand.
+R1C4. Full-figured woman in burgundy bikini, broad-brim straw hat and sunglasses.
+R1C5. Shirtless man in green camouflage swim trunks, both arms hanging naturally.
+R1C6. Woman in bright pink bikini, one arm raised high to wave.
+R1C7. Shirtless man with abstract tattoos on arms and chest, red swim trunks, one arm raised high to wave.
+
+ROW 2 FROM LEFT TO RIGHT — all front views
+R2C1. Woman in dark plum-black mesh top over a pink bikini top, denim shorts, one hand on hip.
+R2C2. Muscular man in white tank top with a small nonletter abstract decorative motif on the chest, olive cargo shorts, holding a red party cup in one hand.
+R2C3. Woman in red crop top, light cargo trousers and sneakers.
+R2C4. Shirtless man in patterned blue-green swim trunks, dive mask pushed up onto forehead, one arm raised high to wave.
+R2C5. Woman in yellow-lime bikini, holding a red party cup in one hand.
+R2C6. Shirtless man in orange-red surf board shorts, one arm raised high to wave.
+R2C7. Older woman in a one-piece swimsuit, straw hat and sarong tied at waist.
+
+ROW 3 FROM LEFT TO RIGHT — first four from the back, last three from the front
+R3C1. Strict back view: muscular man in a light tank top and khaki cargo shorts, short hair, nape visible, no face.
+R3C2. Strict back view: woman in dark tank top and denim shorts, dark ponytail down the back, no face.
+R3C3. Strict back view: shirtless man in swim shorts with a backward dark baseball cap, one arm raised high to wave, no face.
+R3C4. Strict back view: man in floral shirt, shorts and bucket hat, no face.
+R3C5. Front view: shirtless man in patterned blue-green surf board shorts, holding a red party cup in one hand.
+R3C6. Front view: woman in pink bikini top, denim shorts and sunglasses, one hand on hip.
+R3C7. Front view: man in sun-protection shirt and backward baseball cap, both arms hanging naturally.
+
+Final check before rendering: exactly seven complete adults in each of exactly three rows, each in its assigned position. The only visible pixels besides white are the illustrated figures, their clothes and their specified accessories or cups. No visible grid, ground plane, foot shadows, cast shadows, bases, frames, card borders, background objects, letters, numbers, captions, branding, logos, signature or watermark. No weapons, official game characters or recognizable real people.
